@@ -13,7 +13,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+// sibel bunu ekledi
 app.UseHttpsRedirection();
 
 var summaries = new[]
